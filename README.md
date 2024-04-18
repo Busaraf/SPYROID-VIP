@@ -4,9 +4,8 @@
 <h1 align=center>SPYROID VIP</h1>
 
 
- #   [BUY HERE FROM WEBSITE]
-
-[BUY HERE FROM WEBSITE]: https://spynote.org/shop
+# Screenshot
+![App Screenshot](svip.jpg)
   
 # Contact Us
 [![Channel](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/SpydroidRat)
